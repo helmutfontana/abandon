@@ -1,1 +1,2 @@
 :relieved: Simple and Robust Accounting
+# guard against empty input
