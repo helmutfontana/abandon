@@ -24,3 +24,4 @@ Notes and usage details for abandon.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
